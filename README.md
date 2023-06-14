@@ -21,6 +21,7 @@ The application aims to increase agricultural productivity and maintain soil hea
 | Muh. Firdaus   | C240DSX0856   | Cloud Computing    | [![Muh.Firdaus](/contacts/LinkedIn.png)](https://www.linkedin.com/in/muh-firdaus-b3333a230/) [![muhfirdaus08](/contacts/Github.png)](https://github.com/muhfirdaus08)|
 
 ## Project Architecture
+![endpoint.](/project-architecture/project-architecture.png)
 
 ## Learning Path Repository
 | Learning Path | Repository Link |
