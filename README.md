@@ -11,50 +11,14 @@ The application aims to increase agricultural productivity and maintain soil hea
 </p>
 
 ## Team : Bangkit Capstone Team C23-PS381
-<table style="width: 100%;">
-  <tr>
-    <th>Name</th>
-    <th>Bangkit ID</th>
-    <th>Learning Path</th>
-    <th>Contacts</th>
-  </tr>
-  <tr>
-    <td>Joy Vianoktya Aristides</td>
-    <td>A151DSX2262</td>
-    <td>Mobile Development</td>
-    <td>Row 1</td>
-  </tr>
-  <tr>
-    <td>M. Asrorul Khopid</td>
-    <td>A240DSX0999</td>
-    <td>Mobile Development</td>
-    <td>Row 2</td>
-  </tr>
-  <tr>
-    <td>Alifia Elfanny</td>
-    <td>M151DKY4075</td>
-    <td>Machine Learning</td>
-    <td>Row 3</td>
-  </tr>
-  <tr>
-    <td>Gita Setyaningsih</td>
-    <td>M210DSY1523</td>
-    <td>Machine Learning</td>
-    <td>Row 4</td>
-  </tr>
-  <tr>
-    <td>Dennis Hans Albertian</td>
-    <td>C151DSX1924</td>
-    <td>Cloud Computing</td>
-    <td>Row 5</td>
-  </tr>
-  <tr>
-    <td>Muh. Firdaus</td>
-    <td>C240DSX0856</td>
-    <td>Cloud Computing</td>
-    <td>sosial</td>
-  </tr>
-</table>
+| Name | Bangkit ID | Learning Path | Contacts |
+|----------|----------|----------|----------|
+| Joy Vianoktya Aristides   | A151DSX2262    | Mobile Development    | [![Joy Vianoktya Aristides](https://github.com/Joviar27/Terralysis/assets/95416905/756e0ba5-7102-4e7f-a862-c0dd764006cc)](https://www.linkedin.com/in/joyvianoktya/) |
+| M. Asrorul Khopid  |  A240DSX0999    | Mobile Development    | [![Alt Text](image_url)](link_url)   |
+| Alifia Elfanny    | M151DKY4075    | Machine Learning | Row 3    |
+| Gita Setyaningsih    | M210DSY1523   | Machine Learning | Row 4    |
+| Dennis Hans Albertian    | C151DSX1924    |  Cloud Computing   | Row 5    |
+| Muh. Firdaus   | C240DSX0856   | Cloud Computing    |  sosial   |
 
 ## Learning Path Repository
 - [Mobile Development](https://github.com/Joviar27/Terralysis-Android "Terralysis-Android")
