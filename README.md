@@ -20,8 +20,12 @@ The application aims to increase agricultural productivity and maintain soil hea
 | Dennis Hans Albertian    | C151DSX1924    |  Cloud Computing   | [![Dennis Hans](/contacts/LinkedIn.png)](https://www.linkedin.com/in/dennis-hans/) [![denishansss](/contacts/Github.png)](https://github.com/dennishansss)|
 | Muh. Firdaus   | C240DSX0856   | Cloud Computing    | [![Muh.Firdaus](/contacts/LinkedIn.png)](https://www.linkedin.com/in/muh-firdaus-b3333a230/) [![muhfirdaus08](/contacts/Github.png)](https://github.com/muhfirdaus08)|
 
+## Project Architecture
+
 ## Learning Path Repository
-- [Mobile Development](https://github.com/Joviar27/Terralysis-Android "Terralysis-Android")
-- [Cloud Computing (API Auth)](https://github.com/muhfirdaus08/Terralysis_API_User)
-- [Cloud Computing (API Model)](https://github.com/muhfirdaus08/Terralysis_API_Model "Terralysis-API-Model")
-- [Machine Learning](https://github.com/alifia25/machine_learning_capstone "Terralysis-ML")
+| Learning Path | Repository Link |
+|----------|----------|
+| Mobile Development | [Terralysis-Android](https://github.com/Joviar27/Terralysis-Android "Terralysis-Android")|
+| Cloud Computing (API Authentication) | [Terralysis_API_User](https://github.com/muhfirdaus08/Terralysis_API_User)|
+| Cloud Computing (API Model) | [Terralysis_API_Model](https://github.com/muhfirdaus08/Terralysis_API_Model)|
+| Machine Learning | [machine_learning_capstone](https://github.com/alifia25/machine_learning_capstone)|
